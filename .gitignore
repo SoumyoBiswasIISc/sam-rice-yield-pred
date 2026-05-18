@@ -72,3 +72,4 @@ datasets/
 
 # Logs
 *.log
+.vscode-root/
