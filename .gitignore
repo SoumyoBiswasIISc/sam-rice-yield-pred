@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+informer-env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Scientific data
+*.hdf
+*.h5
+*.nc
+*.netcdf
+
+# ML models
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Data folders
+data/
+dataset/
+datasets/
+
+# Outputs
+outputs/
+results/
+checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db# Python
+__pycache__/
+*.pyc
+
+# Environments
+venv/
+env/
+informer-env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large ML files
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
+
+# Data
+data/
+datasets/
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Logs
+*.log
