@@ -14,10 +14,10 @@ from pyhdf.SD import SD, SDC
 DATA_ROOT = "/media/sam/writable/Sam Rice Yield Pred/data"
 MOSAIC_SHAPE = (4800, 4800)
 TILE_POS = {
-    "h25v05": (0, 0),
-    "h26v05": (0, 2400),
-    "h25v06": (2400, 0),
-    "h26v06": (2400, 2400),
+    "h24v05": (0, 0),
+    "h25v05": (0, 2400),
+    "h24v06": (2400, 0),
+    "h25v06": (2400, 2400),
 }
 CROPLAND_CLASSES = (12, 14)
 
